@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
+Disallow: /samples/
 
 Sitemap: https://ailabelbuster.com/sitemap.xml
