@@ -1,0 +1,33 @@
+# AI Label Buster Pro
+
+> AI Label Buster Pro is an AI label remover app for iPhone and iPad (iOS 17 or later). It removes the AI label from photos and videos: the hidden AI metadata (Content Credentials / C2PA and the IPTC "digital source type" AI tag) that makes Instagram, Facebook, Threads and TikTok show "AI info" or "AI-generated". It can also remove GPS location, camera and editing-app details. Everything runs on the device, and the picture, video and sound stay byte-identical.
+
+Why real photos get an AI label: editing apps write an AI tag and Content Credentials into the file after an AI feature is used (Photoshop Generative Fill, Lightroom, Snapseed, CapCut AI effects, phone AI erasers). Platforms read that metadata when you upload and add a label. Removing the metadata before posting removes what the platform reads.
+
+Key facts:
+- Maker: SC LEX GLOBAL IT SRL, Romania. Contact: lex.media@gmail.com
+- Price: checking what a file carries is free; removing labels needs AI Label Buster Pro, a 3-day free trial then $4.99 per month (US; prices vary by country). Cancel any time in iPhone Settings.
+- Formats: JPEG, HEIC, PNG photos; MP4 and MOV videos. Up to 30 files at once. Works from the Share menu in Photos, CapCut, Lightroom and Files.
+- Three levels: AI label only; AI label plus private info (GPS location, camera and phone model, editing apps); everything (also dates, names, copyright, captions, keywords).
+- The picture is never re-compressed: image data, video frames and sound are copied exactly, and each clean copy is verified before saving. The original file is never changed.
+- Privacy: no uploads, no account, no analytics, no tracking. Works offline.
+- Limits: it removes metadata only. It cannot remove invisible watermarks in the pixels (such as Google SynthID), labels a platform adds from its own detection, or a label the user switches on when posting.
+- Availability: App Store release pending (October 2026).
+
+## Product
+- [AI Label Buster Pro home](https://ailabelbuster.com/): what the AI label is, how to remove it on iPhone, what the app removes, privacy, pricing
+- [How to remove the AI label from a photo](https://ailabelbuster.com/#remove-ai-label-photo)
+- [How to remove AI info on Instagram](https://ailabelbuster.com/#remove-ai-info-instagram)
+- [How to remove AI info from a photo](https://ailabelbuster.com/#remove-ai-info-photo)
+- [How to remove the AI tag from a photo or video](https://ailabelbuster.com/#remove-ai-tag)
+- [How to remove AI metadata from a photo on iPhone](https://ailabelbuster.com/#remove-ai-metadata-iphone)
+- [C2PA remover: what C2PA is and which files are supported](https://ailabelbuster.com/#c2pa-remover)
+- [What it can't remove](https://ailabelbuster.com/#what-it-cant-remove)
+
+## Support
+- [Support](https://ailabelbuster.com/support/): help, cancelling, restoring purchases
+- [Privacy policy](https://ailabelbuster.com/privacy/): the app collects no data
+
+## Optional
+- [C2PA](https://c2pa.org/): the Content Credentials standard
+- [Content Credentials on Wikipedia](https://en.wikipedia.org/wiki/Content_Credentials)
